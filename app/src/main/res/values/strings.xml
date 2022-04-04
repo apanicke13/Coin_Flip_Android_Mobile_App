@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coin_flip</string>
+    <string name="switch_text">Simulation Mode</string>
+    <string name="icon_description">Icon to represent the state of a coin flip</string>
+    <string name="flip_button_text">FLIP</string>
+    <string name="reset_button" />
+    <string name="reset_button_text">RESET</string>
+</resources>
